@@ -16,10 +16,16 @@ The biggest challenges facing this project is the complexity of the dataset and 
 Coming soon
 ### SOURCES
 [1] Original Dataset: https://ieee-dataport.org/open-access/detecting-damaged-buildings-post-hurricane-satellite-imagery-based-customized
+
 [2] Original Dataset paper: https://arxiv.org/abs/1807.01688
+
 [3] Kaggle Dataset: https://www.kaggle.com/kmader/satellite-images-of-hurricane-damage
+
 [4] Nasa Climate Change Research: https://climate.nasa.gov/
+
 [5] Western US Fires: https://climate.nasa.gov/blog/3066/the-climate-connections-of-a-record-fire-year-in-the-us-west/
+
 [6] Rising Sea Levels (Kiribati): https://www.nytimes.com/2016/07/03/world/asia/climate-change-kiribati.html
+
 [7] Hurricane Harvey facts: https://tdem.texas.gov/hurricane-harvey-dr-4332-2/
 
