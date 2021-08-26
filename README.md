@@ -15,7 +15,7 @@ Comparing confusion matrices between models and looking at accuracy scores and r
 
 ### CHALLENGES 
 
-The biggest challenge I faced during this project was dealing with what I assume is data leakage in the model. Comparing the model results on the training data and the test data, there are some interesting descrepancies 
+The biggest challenge I faced during this project was dealing with what I assume is data leakage in the model. Comparing the model results on the training data and the test data, there are some interesting descrepancies between when evaluating the training data and testing data. I've stratified my data split on the labeled data, as well as looked at the different sized splits (80-20,70-30, 60-40), augmenting images, and making sure the class proportion remains the same between the train and test, the issue still persists. This will be something I will continue to investigate.
 
 ### FUTURE WORK
 
