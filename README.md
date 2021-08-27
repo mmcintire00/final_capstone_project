@@ -9,6 +9,10 @@ As the effects of climate change continue to accelerate in the coming years, cle
 ### DATA
 This dataset was taken from Kaggle.com [3] and was originally published on the IEEE website [1]. The authors of the dataset also wrote a paper detailing their approach and findings [2].  The data contains 23000 images of both damaged and undamaged classes. The data is broken into both training and test datasets. 
 
+![data_distribution](https://user-images.githubusercontent.com/80219614/131153907-6257ef88-ad67-4b39-adb1-38c71f1ce13a.jpeg)
+
+![data_location](https://user-images.githubusercontent.com/80219614/131153819-f911dd47-e5ad-4cbe-ba29-b7d33abad011.jpeg)
+
 ### RESULTS
 
 Comparing confusion matrices between models and looking at accuracy scores and run times, the AlexNet model provides the best results for predicting both the majority and the minority classes. The recall values for damage and no_damge are .89 and .92, respectively.
