@@ -15,7 +15,7 @@ The figure above shows the distribuiton of the two classes of data. There are 23
 
 ![data_location](https://user-images.githubusercontent.com/80219614/131153819-f911dd47-e5ad-4cbe-ba29-b7d33abad011.jpeg)
 
-The locations of the data points can be observed on the map of SE Texas above. There are three primary locations that the data was collected. The first is Rockport, Texas where Hurricane Harvey made landfall as a category 4 hurricane. There are datapoints collected around the Houston Metro area where some of the greatest impacts of flooding were observed. And finally on the Texas-Lousiana boarder near Beaumont, Texas which also saw devistating flood damage.
+The locations of the data points can be observed on the map of SE Texas above. There are three primary locations that the data was collected. The first is Rockport, Texas where Hurricane Harvey made landfall as a category 4 hurricane. There are datapoints collected around the Houston Metro area where some of the greatest impacts of flooding were observed. And finally on the Texas-Lousiana border near Beaumont, Texas which also saw devistating flood damage.
 
 ### RESULTS
 
