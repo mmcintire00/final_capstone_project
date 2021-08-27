@@ -57,8 +57,8 @@ This model could be deployed in a couple of different ways. It could be deployed
 
 [10] Kaggle Computer Vision Course: https://www.kaggle.com/learn/computer-vision
 
-[11] IBM Computer Vision Explaination: https://www.ibm.com/topics/computer-vision
+[11] IBM Computer Vision Explanation: https://www.ibm.com/topics/computer-vision
 
-[12] IBM CNN Explaination: https://www.ibm.com/cloud/learn/convolutional-neural-networks
+[12] IBM CNN Explanation: https://www.ibm.com/cloud/learn/convolutional-neural-networks
 
 
