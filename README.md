@@ -21,6 +21,12 @@ The locations of the data points can be observed on the map of SE Texas above. T
 
 Comparing confusion matrices between models and looking at accuracy scores and run times, the AlexNet model provides the best results for predicting both the majority and the minority classes. The recall values for damage and no_damge are .89 and .92, respectively.
 
+![loss_accuracy](https://user-images.githubusercontent.com/80219614/131872378-4650e727-a1b2-4aee-a5fe-ce08e49eaa6f.png)
+
+![cm_test_ann](https://user-images.githubusercontent.com/80219614/131872398-4f0bc727-03a3-40b7-b871-d4ad05937d60.png)
+
+![models](https://user-images.githubusercontent.com/80219614/131872411-3153252e-1675-43ac-905d-504765b24421.png)
+
 ### CHALLENGES 
 
 The biggest challenge I faced during this project was dealing with what I assume is data leakage in the model. Comparing the model results on the training data and the test data, there are some interesting descrepancies between when evaluating the training data and testing data. I've stratified my data split on the labeled data, as well as looked at the different sized splits (80-20,70-30, 60-40), augmenting images, and making sure the class proportion remains the same between the train and test, the issue still persists. This will be something I will continue to investigate.
